@@ -11,6 +11,7 @@ const data = [
   { name: 'Completed', value: 300 },
 ];
 
+
 ///////// passing colors for chart //////
 const COLORS = ['blue', 'brown', 'green'];
 // const COLORS1 = ['blue', 'brown', 'green'];
