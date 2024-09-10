@@ -10,7 +10,6 @@ const data = [
   { name: 'Pending', value: 300 },
   { name: 'Completed', value: 300 },
 ];
-///////
 
 ///////// passing colors for chart //////
 const COLORS = ['blue', 'brown', 'green'];
